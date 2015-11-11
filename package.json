@@ -1,0 +1,11 @@
+{
+  "name": "stock-clock",
+  "version": "1.0.0",
+  "description": "\"an alarm clock to notify you when to sell your stocks\"",
+  "main": "./app.js",
+  "scripts": {
+    "test": "./test/test.sh"
+  },
+  "author": "Kousha Talebian (kousha.talebian@gmail.com)",
+  "license": "ISC"
+}
